@@ -1,2 +1,10 @@
-# Reserva_de_espa-o
-Trabalho escolar
+Trabalho escolar: RESERVA DE ESPAÇO🪑
+
+*Nome dos integrantes*
+
+. Alice Sobral
+. Beatriz Ramirez
+. Camilly Vitória
+. Felipe Milanez
+. Lucas Lorenzo
+. Michelly Bianca
